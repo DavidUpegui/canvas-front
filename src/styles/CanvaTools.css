@@ -1,0 +1,15 @@
+.tools_container{
+    flex: 20;
+    background-color: var(--c2);
+    height: 100%;
+    margin: 0 2rem;
+    padding: 3rem;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.tools_title{
+    font-size: 20px;
+    color: var(--c5);
+}

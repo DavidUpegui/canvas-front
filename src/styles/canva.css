@@ -1,0 +1,18 @@
+.canva_container{
+    height: 100%;
+    flex: 80;
+    background-color: var(--c3);
+    padding: 2rem;
+    border-radius: 10px;
+}
+
+.canva{
+    border: 2px var(--c4) solid;
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.canva:hover{
+    cursor: pointer;
+}
